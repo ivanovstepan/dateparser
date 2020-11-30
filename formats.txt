@@ -1,7 +1,11 @@
 yyyy-MM-dd
 yyyy-dd-MM
-MM-dd-yyyy
-dd-M-yyyy-hh-mm-ss
-dd-M-yyyy-hh-mm-ss
+yyyy-MM-dd-hh-mm-ss
+yyyy-dd-MM-hh-mm-ss
+yyyy-MM-dd-HH-mm-ss-SSSZ
+yyyy-dd-MM-hh-mm-ss-SSSZ
+yyyyy-MMMMM-dd-GGG-hh-mm-aaa
+YYYY-'W'ww-u
 dd-MMMM-yyyy-zzzz
 E-dd-MMM-yyyy-HH-mm-ss-z
+K-mm-a-z
