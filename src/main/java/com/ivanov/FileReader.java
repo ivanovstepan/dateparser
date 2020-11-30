@@ -1,13 +1,14 @@
 package com.ivanov;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class FileReader {
 
-    public static String[] readerPatterns(String path) throws IOException {
+    public static String[] readerPatterns(String path) throws FileNotFoundException {
         Scanner myReader = new Scanner(new File(path));
         ArrayList<String> temps = new ArrayList();
 
